@@ -1,0 +1,20 @@
+porte
+
+porta, dest, chiusa 
+
+oggetti
+
+nemici
+1 pedone
+2 alfiere
+3 torre
+4 regina
+
+gameObject
+
+5 statua pesce
+6 statua drago
+7 muro
+8 re
+9 key
+10 map
